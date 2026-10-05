@@ -1,0 +1,13 @@
+{
+  "slug": "diamonddentart",
+  "clinic_name": "Diamond DentArt",
+  "agent_id": "agent_6301m3tsj9cmepqar3k8hqkhaq0v",
+  "first_message": "Jó napot kívánok! A Diamond DentArt fogászati rendelő virtuális asszisztense, Rita vagyok. Tájékoztatom, hogy a beszélgetést minőségbiztosítási célból rögzítjük. Miben segíthetek?",
+  "chips": ["Fogászati rendelő", "Siófok", "Magyar nyelvű", "Éjjel-nappal elérhető"],
+  "questions": [
+    "Mennyibe kerül egy panoráma röntgen?",
+    "Hol található a rendelő, és hogyan érhetem el?",
+    "Nagyon félek a fogorvostól. Van lehetőség szedálásra?",
+    "Szeretnék időpontot kérni fogkőeltávolításra jövő hétre."
+  ]
+}
